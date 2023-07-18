@@ -4,7 +4,7 @@ library(zoo)
 library(ggplot2)
 library(ggthemes)
 
-quiptics <- read.csv('~/Documents/Activity/Quiptic_tracker.csv')
+quiptics <- read.csv('~/Documents/Crosswords/Quiptic_tracker.csv')
 View(quiptics)
 
 #Add penalty time column
